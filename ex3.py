@@ -23,7 +23,7 @@ print "How about some more."
 print "Is it greater?", 5 > -2
 print "Is it greater or equal?", 5>= -2
 print "Is it less or equal?", 5 <= -2
-#----------------------------------------
+#---------------------------------------
 #学习心得1：运算优先级PEMDAS（括号Parentheses、指数Exponents、乘Multiplication、除Division、加Addtion、减Subtraction）
 #学习心得2：利用浮点数重新书写第10行语句，如下面所示
 print 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
