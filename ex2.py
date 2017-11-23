@@ -10,7 +10,7 @@ print "I could have code like this." # and the commet after is ignored.
 
 print "This will run."
 
-#------------------------------------------
+#-------------------------------------------
 #学习心得：如下面例子#在字符串内部，不表示注释
 print "Hi # there"
 
